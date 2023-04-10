@@ -8,25 +8,41 @@
     <meta name="keywords" content="Login, Sing up, account">
     <meta name="Robots" content="Nofollow">
     <meta name="author" content="Jefferson Barbosa">
+
+    <!--CSS links-->
     <link rel="stylesheet" href="CSS/Style.css" type="text/css">
     <link rel="shortcut icon" href="Components/Favicon/Favicon.png" type="image/x-icon">
+    <!--CSS links-->
+
     <title>Acessar sua Conta</title>
 </head>
 <body>
     <main>
         <div class="Conteudo-Principal">
+
+            <!--Container Principal-->
             <div class="Container-Login">
+
+                <!--Container Input-->
                 <div class="Bloco-1">
-                    <h1>Login</h1>
-                    <p class="Titulo-Input">Nome de Usuário</p><label for="name">
+                    <h1 class="title-animate">Login</h1>
+                    <p class="Titulo-Input">Nome de Usuário</p>
+                    <label for="name">
                         <img src="Components/IMG/user.png" alt="Imagem-Usuário">
-                        <input type="text" name="text" id="name" placeholder="Digite seu nome de usuário" required></label>
-    
-                    <p class="Senha-Input">Senha</p><label for="passwd">
+                        <input type="text" name="text" id="name" placeholder="Digite seu nome de usuário" required>
+                    </label>
+                    <p class="Senha-Input">Senha</p>
+                    <label for="passwd">
                         <img src="Components/IMG/padlock.png" alt="Imagem-Senha">
-                        <input type="password" name="password" id="passwd" placeholder="Digite sua senha" required></label>
-                    <a href="#">Esqueceu a Senha?</a>
-                    <button type="submit">Login</button>
+                        <input type="password" name="password" id="passwd" placeholder="Digite sua senha" required>
+                    </label>
+
+                    <!--Interação-->
+                    <a href="#" class="Senha">Esqueceu a Senha?</a>
+                    <button type="submit" class="login">Login</button>
+                    <!--Interação-->
+
+                    <!--Container Botão Switch-->
                     <div class="Container-checkbox">
                         <label class="switch">
                             <span class="Texto-switch">Mantenha-me Conectado</span>
@@ -36,8 +52,14 @@
                             </div>
                         </label>
                     </div>
+                    <!--Container Botão Switch-->
+
                 </div>
+                <!--Fim Container Input-->
             </div>
+            <!--Fim Container Principal-->
+
+            <!--Container Redes Sociais-->
             <div class="Container-Contas">
                 <p>Ou Entre Usando</p>
                 <div class="Container-Imagens">
@@ -48,10 +70,15 @@
                 </div>
                 <p>Não tem uma conta?</p>
                 <a href="#">Crie Uma Aqui</a>
-                </div>
             </div>
+            <!--Fim Container Redes Sociais-->
         </div>
     </main>
     <footer><p>Site Criado por <a href="https://github.com/Jefferson-BR" target="_blank" rel="_blank">&copy; Jefferson Barbosa</a></p></footer>
+
+    <!--JavaScript links-->
+    <script src="https://unpkg.com/scrollreveal"></script>
+    <script src="JS/Script.js"></script>
+    <!--JavaScript links-->
 </body>
 </html>
