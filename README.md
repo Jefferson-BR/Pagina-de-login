@@ -1,4 +1,4 @@
-Ultimo update feito feito: 10/04/2023
+Ultimo update feito em: 10/04/2023
 
 O que foi adicionado:
 - Comentarios no HTML e CSS
