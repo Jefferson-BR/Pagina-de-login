@@ -1,5 +1,11 @@
 Ultimo update feito em: 10/04/2023
 
+#### Sites da Imagem e icones usados:
+
+- <a href="https://www.pexels.com/pt-br/">Pexels</a>
+- <a href="https://boxicons.com">BoxIcons</a>
+
+
 O que foi adicionado:
 - Comentarios no HTML e CSS
 - Algumas Animações em JS
