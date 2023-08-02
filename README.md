@@ -3,7 +3,7 @@ Ultimo update feito em: 10/04/2023
 #### Sites da Imagem e icones usados:
 
 - <a href="https://www.pexels.com/pt-br/">Pexels</a>
-- <a href="https://boxicons.com">BoxIcons</a>
+- <a href="https://boxicons.com">Boxicons</a>
 
 
 O que foi adicionado:
