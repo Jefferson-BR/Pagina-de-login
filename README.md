@@ -13,7 +13,7 @@ O que foi adicionado:
 ## Esse Projeto contem copyright©
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/Jefferson-BR/projeto-pagina-de-login/blob/main/LICENSE)
 
-Link para visualizar a página: https://jefferson-br.github.io/projeto-pagina-de-login/
+Link para visualizar a página: https://jefferson-br.github.io/Pagina-de-login/
 
 <!--
 ## Clone/Flork Project 
